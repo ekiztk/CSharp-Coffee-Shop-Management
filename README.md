@@ -1,4 +1,4 @@
-# CSharp-Coffe-Shop-Management
+# CSharp-Coffe-Shop-Management (Readme güncellenecektir.)
 ### Kurulum
 - Proje Çözümünü açın.
 - App.config dosyasını açın ve connectionString="Server=DESKTOP-O58IPK0;...
