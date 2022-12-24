@@ -1,0 +1,86 @@
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\CoffeShopManagement.exe.config
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\CoffeShopManagement.exe
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\CoffeShopManagement.pdb
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Properties.Resources.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.exe
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.pdb
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.FrmHomepage.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Home_Forms.FrmKitchen.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\EntityFramework.dll
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\EntityFramework.xml
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.FrmLogIn.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.CopyComplete
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Migrations.InitialCreate.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Home_Forms.FrmOrders.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Home_Forms.FrmReports.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.User_Controls.Desk.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Additional_Forms.FrmOrderDetail.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.User_Controls.Control_Product.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.User_Controls.Control_OrderItem.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.User_Controls.OrderItemDetail.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Home_Forms.FrmEmployee.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\americano.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\bagel.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\blacktea.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\cola.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\croissant.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\cupcake.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\donut.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\espresso.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\fanta.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\latte.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\lemontea.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\mocha.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\soda.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Additional_Forms.FrmOrderPayment.resources
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\FormIcons\checked.png
+C:\Users\tkaan\source\repos\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\FormIcons\plus.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\FormIcons\checked.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\FormIcons\plus.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\americano.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\bagel.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\blacktea.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\cola.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\croissant.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\cupcake.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\donut.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\espresso.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\fanta.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\latte.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\lemontea.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\mocha.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\Resources\ProductIcons\soda.png
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\CoffeShopManagement.exe.config
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\CoffeShopManagement.exe
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\CoffeShopManagement.pdb
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\EntityFramework.dll
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\EntityFramework.xml
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Additional_Forms.FrmOrderDetail.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Additional_Forms.FrmOrderPayment.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.FrmLogIn.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Home_Forms.FrmEmployee.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.FrmHomepage.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Home_Forms.FrmKitchen.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Home_Forms.FrmOrders.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.Home_Forms.FrmReports.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.User_Controls.Control_OrderItem.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.User_Controls.Desk.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Forms.User_Controls.Control_Product.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Migrations.InitialCreate.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.Properties.Resources.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.User_Controls.OrderItemDetail.resources
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.csproj.CopyComplete
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.exe
+C:\Users\tkaan\Desktop\NYP_Proje Ödevi_220229066\Proje Çözüm Dosyası\CoffeShopManagement\CoffeShopManagement\obj\Debug\CoffeShopManagement.pdb
