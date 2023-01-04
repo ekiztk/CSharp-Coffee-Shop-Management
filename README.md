@@ -2,10 +2,10 @@
 
 **İçerik**
 
-##Program Özeti
+## Program Özeti
 Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile gerçekleştirilmesine olanak tanır.
 
-##Program Özellikleri
+## Program Özellikleri
 
 ### Modüller
 
