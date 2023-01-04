@@ -48,7 +48,7 @@ Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile 
 - Windows Forms
 - User Controls
 - Microsoft SQL Server
-- SQL veri tabanı
+- SQL Database
 
 
 ## Program UML Diyagramları
