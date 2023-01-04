@@ -1,4 +1,4 @@
-# CSharp Kafe Yönetimi (Coffe Shop Management) 
+# C# Kafe Yönetim Programı (Coffe Shop Management) 
 
 
 ## Program Özeti
