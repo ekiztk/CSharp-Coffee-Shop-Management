@@ -39,7 +39,7 @@ Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile 
 - Bir siparişi sadece o siparişi açan garson güncelleyebilir.
 - Çalışanlar, roller ve ürünler veri tabanına manuel eklenmelidir.
 
-## Teknik Özellikler
+## Program Teknik Özellikler
 - C#
 - C# Events
 - C# Delegates
