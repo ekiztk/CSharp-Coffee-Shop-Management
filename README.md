@@ -39,6 +39,18 @@ Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile 
 - Bir siparişi sadece o siparişi açan garson güncelleyebilir.
 - Çalışanlar, roller ve ürünler veri tabanına manuel eklenmelidir.
 
+## Teknik Özellikler
+- C#
+- C# Events
+- C# Delegates
+- C# N-Tier Architecture
+- Entity Framework 6
+- Windows Forms
+- User Controls
+- Microsoft SQL Server
+- SQL veri tabanı
+
+
 ## Program UML Diyagramları
 
 ### Business UML Diyagram
@@ -50,7 +62,7 @@ Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile 
 ### Entities UML Diyagram
 ![EntitiesUMLDiagram](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/6f96429105f07ef213c6c95c1a06a5524c6210d8/UMLDiagrams/EntitiesUMLDiagram.svg "EntitiesUMLDiagram")
 
-### Kurulum
+## Kurulum
 - Proje Çözümünü açın.
 - App.config dosyasını açın ve connectionString="Server=DESKTOP-O58IPK0;...
 kısmındaki DESKTOP-O58IPK0 database adını kendi database adınız ile değiştirin.
