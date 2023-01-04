@@ -51,7 +51,7 @@ Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile 
 ![DatabaseUMLDiagram](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/UMLDiagrams/DatabaseUMLDiagram.svg "DatabaseUMLDiagram")
 
 ### Entities UML Diyagram
-![EntitiesUMLDiagram](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/UMLDiagrams/EntitiesUMLDiagram.svg "EntitiesUMLDiagram")
+![EntitiesUMLDiagram](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/6f96429105f07ef213c6c95c1a06a5524c6210d8/UMLDiagrams/EntitiesUMLDiagram.svg "EntitiesUMLDiagram")
 
 
 ### Kurulum
