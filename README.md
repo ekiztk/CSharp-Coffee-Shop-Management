@@ -10,7 +10,7 @@ Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile 
 
 ####  Siparişler
 - Masa sayısı isteğe bağlı değişebilir.
-- Her masa içi sipariş açılabilir.
+- Her masa için sipariş açılabilir.
 - Her masa için aynı anda sadece bir sipariş açık olabilir.
 - Her masa için siparişi açan garson ismi belirtilir.
 - Her masa için Sipariş Düzenle butonu ile ek pencere açılır.
