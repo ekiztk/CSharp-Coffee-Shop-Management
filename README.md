@@ -66,3 +66,5 @@ kısmındaki DESKTOP-O58IPK0 database adını kendi database adınız ile deği�
 //c.Database.CreateIfNotExists();
 //-----------------------------------------
 ```
+- Not: Programda kullanılan hazır veri tabanı [Ready Database][Ready Database] klasöründe mevcuttur.
+[Ready Database]: https://github.com/ekiztk/CSharp-Coffe-Shop-Management/tree/main/Ready%20Database
