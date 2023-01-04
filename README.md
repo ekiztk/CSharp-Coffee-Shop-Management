@@ -4,13 +4,14 @@
 
 [TOC]
 
-#Program Özeti
+##Program Özeti
 Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile gerçekleştirilmesine olanak tanır.
 
-#Program Özellikleri
+##Program Özellikleri
 
-## Modüller
-###  Siparişler
+### Modüller
+
+####  Siparişler
 - Masa sayısı isteğe bağlı değişebilir.
 - Her masa içi sipariş açılabilir.
 - Her masa için aynı anda sadece bir sipariş açık olabilir.
@@ -21,27 +22,31 @@ Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile 
 - Sipariş kapatılırken bütün teslim edilmiş siparişler listelenir, toplam fiyat ve ödemeyi alan garson gösterilir.
 - Her 10 saniyede bir sipariş verileri otomatik olarak veri tabanından alınarak güncellenir.
 
-###  Mutfak
+####  Mutfak
 - Bütün hazır olmayan siparişler listelenir.
 - Hazırlanan siparişler,  servise hazır olarak belirtilebilir.
 - Her 10 saniyede bir sipariş verileri otomatik olarak veri tabanından alınarak güncellenir.
 
-###  Personel
+####  Personel
 - Çalışanlar kendi sosyal güvenlik numarası, isim , rol bilgilerini görebilir ve kendi şifrelerini değiştirebilir.
 
-### Raporlar
+#### Raporlar
 - Bütün teslim edilen siparişler; sipariş numarası, sipariş tarihi, teslim eden garson, ürün fiyatı ve ürün isimleri ile listelenir.
 - Toplam sipariş adedi ve adisyon miktarı gösterilir.
 - Siparişler günlük,haftalık ya da aylık şeklinde filtrelenebilir.
 
-## Ek Özellikler
+### Ek Özellikler
 - Çalışanlar sosyal güvenlik numaraları ve şifreleri ile programa giriş yapmalıdır.
 - Çalışanlar kendi bilgilerini görebilir ve kendi şifrelerini değiştirebilir.
 - Her çalışan kendi rolüne özel tanımlanmış modüllere erişebilir.
 - Bir siparişi sadece o siparişi açan garson güncelleyebilir.
 - Çalışanlar, roller ve ürünler veri tabanına manuel eklenmelidir.
 
+## Program UML Diyagramları
 
+### Business UML Diyagram
+### Database UML Diyagram
+### Entities UML Diyagram
 
 
 
