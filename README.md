@@ -1,10 +1,6 @@
-# CSharp-Coffe-Shop-Management (Readme güncellenecektir.)
+# CSharp Kafe Yönetimi (Coffe Shop Management) 
 
 **İçerik**
-
-[TOCM]
-
-[TOC]
 
 ##Program Özeti
 Program, bir kafe yönetmek için gerekli olan temel işlevlerin bilgisayar ile gerçekleştirilmesine olanak tanır.
