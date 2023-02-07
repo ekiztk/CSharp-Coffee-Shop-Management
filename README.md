@@ -51,6 +51,9 @@ The program allows the computer to perform the basic necessary functions to mana
 - SQL Database
 
 
+## Screenshots
+![orders](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/screenshots/orders.png "orders")
+
 ## UML Diagrams for Classes used in the project
 
 ### Business UML Diagram
