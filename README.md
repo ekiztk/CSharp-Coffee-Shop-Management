@@ -2,7 +2,7 @@
 
 
 ## Summary
-The program allows the computer to perform the basic necessary functions to manage a cafe.
+The program allows the computer to perform the basic necessary functions to manage a coffe shop.
 
 ## Features
 
