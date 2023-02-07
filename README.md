@@ -74,6 +74,7 @@ The program allows the computer to perform the basic necessary functions to mana
 - Open App.config file and connectionString="Server=DESKTOP-O58IPK0;..." replace the DESKTOP-O58IPK0 database name with your own database name.
 - Open the code part of the FrmLogin form.
 - Run the program by activating the code block below. (Entity Framework 6 and Microsoft SQL are used.)
+- Finally, please don't forget to give a STAR.
 ```
 //-----------Database Oluşturmak-----------
 //CoffeShopDBContext c = new CoffeShopDBContext();
