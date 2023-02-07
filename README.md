@@ -53,6 +53,10 @@ The program allows the computer to perform the basic necessary functions to mana
 
 ## Screenshots
 ![orders](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/screenshots/orders.png "orders")
+![order_detail](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/screenshots/order_detail.png "order_detail")
+![kitchen](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/screenshots/kitchen.png "kitchen")
+![employee](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/screenshots/employee.png "employee")
+![reports](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/screenshots/reports.png "reports")
 
 ## UML Diagrams for Classes used in the project
 
