@@ -36,10 +36,10 @@ The program allows the computer to perform the basic necessary functions to mana
 - Employees must log in to the program with their social security numbers and passwords.
 - Employees can see their own information and change their own passwords.
 - Each employee can access modules defined specifically for their role.
-- Only the waiter who opened that order can update an order.
-- Employees, roles, and products must be added to the database manually.
+- Only the waiter who opened that order can update the order.
+- Employees, roles, and products must be added to the database with a Database Server Manager.
 
-## Technicial Specifications
+## Technical Specifications
 - C#
 - C# Events
 - C# Delegates
