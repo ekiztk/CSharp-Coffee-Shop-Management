@@ -60,13 +60,13 @@ The program allows the computer to perform the basic necessary functions to mana
 
 ## UML Diagrams for Classes used in the project
 
-### Business UML Diagram
+### Business Module UML Diagram
 ![BusinessUMLDiagram](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/UMLDiagrams/BusinessUMLDiagram.svg "BusinessUMLDiagram")
 
-### Database UML Diagram
+### Database Module UML Diagram
 ![DatabaseUMLDiagram](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/main/UMLDiagrams/DatabaseUMLDiagram.svg "DatabaseUMLDiagram")
 
-### Entities UML Diagram
+### Entities Module UML Diagram
 ![EntitiesUMLDiagram](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/6f96429105f07ef213c6c95c1a06a5524c6210d8/UMLDiagrams/EntitiesUMLDiagram.svg "EntitiesUMLDiagram")
 
 ## Setup
