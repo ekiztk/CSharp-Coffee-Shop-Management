@@ -70,7 +70,7 @@ The program allows the computer to perform the basic necessary functions to mana
 ![EntitiesUMLDiagram](https://raw.githubusercontent.com/ekiztk/CSharp-Coffe-Shop-Management/6f96429105f07ef213c6c95c1a06a5524c6210d8/UMLDiagrams/EntitiesUMLDiagram.svg "EntitiesUMLDiagram")
 
 ## Setup
-- Open Project Solution.
+- Open the Project Solution.
 - Open App.config file and connectionString="Server=DESKTOP-O58IPK0;..." replace the DESKTOP-O58IPK0 database name with your own database name.
 - Open the code part of the FrmLogin form.
 - Run the program by activating the code block below. (Entity Framework 6 and Microsoft SQL are used.)
