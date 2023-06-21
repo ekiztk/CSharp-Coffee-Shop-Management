@@ -1,4 +1,4 @@
-# C# Coffe Shop Management App
+# C# Coffee Shop Management App
 
 
 ## Summary
